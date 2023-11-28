@@ -1,3 +1,4 @@
+// Scan values to different variable types
 
 public class ScanText {
     public static void main(String[] args) {
