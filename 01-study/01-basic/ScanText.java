@@ -1,7 +1,7 @@
 // Scan values to different variable types
 
 public class ScanText {
-    public static void main(String[] args) {
+    public static void main() {
         java.util.Scanner scan = new java.util.Scanner(System.in);
 
         System.out.println("Insert a String");
