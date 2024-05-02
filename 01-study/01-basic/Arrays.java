@@ -2,6 +2,11 @@ import java.util.ArrayList;
 
 public class Arrays {
 
+    class NotaDeAvaliacao {
+        double nota;
+        double peso;
+    }
+
     public static void main() {
 
         // Vector
@@ -14,4 +19,9 @@ public class Arrays {
         numArray.remove(0);
         numArray.size();
     }
+}
+
+class notaDeAvaliacoes {
+    double nota = 0;
+    int peso = 0;
 }
